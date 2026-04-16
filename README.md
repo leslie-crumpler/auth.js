@@ -1,0 +1,2 @@
+# auth.js
+SonarQube Project
